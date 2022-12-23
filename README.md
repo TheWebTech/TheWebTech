@@ -3,5 +3,5 @@ I am a ~~[dashing Canadian Actor](https://www.imdb.com/name/nm2374363/)~~ [Midwe
 
 ## Connect with me
 * [LinkedIn](https://www.linkedin.com/in/mclarenjon/)
-* <a rel="me nofollow" href="https://noc.social/@TheWebTech">Mastodon</a>
+* <a rel="me" href="https://noc.social/@TheWebTech">Mastodon</a>
 * [Twitter](https://twitter.com/TheWebTech)
